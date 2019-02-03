@@ -1,3 +1,8 @@
+Deployed site: http://danielhernqvist.chas.academy/trelloclone/index5.html
+
+
+
+
 # Trello clone with jQuery, jQuery UI & Bootstrap
 
 Hello there, and welcome to this assignment where you'll be making a clone
